@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AlexMPJ
+- 👀 I’m interested in JavaScript, HMTL5 and CSS3
+- 🌱 I’m currently learning all of the 3 above
